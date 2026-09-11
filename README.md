@@ -30,9 +30,10 @@ I bridge technical software architecture with business value, building end-to-en
   - Interactive website built with advanced animations and modern design standards (**Vite, Tailwind CSS v4, GSAP, Resend**).
   - Custom desktop companion tool (`herramienta-tgw`) built with **Python 3.12 and PySide6 (Qt)** with automated CI/CD packaging on GitHub Actions.
 
-- **LLMs & Knowledge Graphs for Relational DBs** — *Research & Co-Author*
+- **[LLMs & Knowledge Graphs for Relational DBs](https://riaa-tecno.unca.edu.ar/handle/123456789/1246)** — *Research & Co-Author*
   - Applied research paper presented at **CoNaIISI 2024** (12th National Congress of Computer Engineering), recognized among the **Top 6 papers** in its category.
   - Investigated LLM integration with Knowledge Graphs for semantic relational database querying and hallucination mitigation using Python & NLP.
+  - Published in: [RIAA-Tecno (UNCA Repository)](https://riaa-tecno.unca.edu.ar/handle/123456789/1246).
 
 ---
 
